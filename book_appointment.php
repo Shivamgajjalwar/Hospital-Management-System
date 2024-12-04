@@ -20,7 +20,7 @@
         }
 
         form {
-            max-width: 500px;
+            max-width: 600px;
             margin: 0 auto;
             padding: 20px;
             background-color: #fff;
