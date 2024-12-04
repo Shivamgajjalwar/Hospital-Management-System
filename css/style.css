@@ -1,0 +1,290 @@
+*{
+	margin:auto;
+	padding:auto;
+}
+.top{
+	width:100%;
+	background-color:#2FA5EB !important;
+	border-bottom:2px solid #f0f0f0;
+}
+.top div{
+	width:1200px;
+	color:#fff;
+	background-color:#2FA5EB !important;
+	font-family:calibri;
+	padding:10px;
+	text-align:right;
+}
+
+.logo{
+	width:100%;
+	background-color:;
+	border-bottom:2px solid #f0f0f0;
+}
+.logo div{
+	width:1200px;
+	background-color:;
+	font-family:calibri;
+	padding:10px;
+	text-align:left;
+}
+.logo div table a{
+	padding:10px;
+	text-decoration:none;
+	color:gray;
+}
+.logo div table a:hover{
+	color:#428bca;
+	border-bottom:2px solid gray;
+}
+
+.middle{
+	width:100%;
+	border-bottom:2px solid #f0f0f0;
+
+}
+
+#background-image{
+	background-size: cover;
+	/* display: flex; */
+	height: 350px;
+	width: 1500px;
+	
+
+}
+.middle div{
+	width:1200px;
+	height:400px;
+	font-family:calibri;
+}
+.middle div p{
+	width:1000px;
+	font-weight:bold;
+	height:300px;
+	color:#fff;
+	opacity:0.2;
+	font-size:50px;
+	background-color:#000;
+}
+
+.bottom{
+	width:100%;
+	background-color:;
+	border-bottom:2px solid #f0f0f0;
+}
+.bottom div{
+	width:1200px;
+	color:#fff;
+	background-color:;
+	font-family:calibri;
+	text-align:right;
+}
+.bottom div table{
+	padding-top:30px;
+	width:1100px;
+	text-align:justify;
+	color:gray;
+	font-size:20px;
+}
+
+.bottom_up{
+	width:100%;
+	background-color:;
+	border-bottom:2px solid #f0f0f0;
+}
+.bottom_up div{
+	padding-top:20px;
+	width:1200px;
+	text-align:center;
+	background-color:;
+	font-family:forte;
+	font-size:30px;
+	padding-bottom:20px;
+}
+.bottom_up div table{
+	padding-top:30px;
+	font-size:30px;
+	width:1100px;
+	text-align:center;
+	background-color:;
+	font-family:calibri;
+	
+}
+
+input[type="text"]{
+	padding:12px;
+	width:250px;
+}
+select{
+	padding:12px;
+	width:250px;
+}
+textarea{
+	padding:50px;
+	width:550px;
+}
+button{
+	width:550px;
+	padding:10px;
+	color:#fff;
+	font-size:20px;
+	background-color:#2FA5EB !important;
+}
+
+
+.nav_down{
+	width:100%;
+	background-color:#2FA5EB !important;
+	border-bottom:2px solid #f0f0f0;
+}
+.nav_down div{
+	width:1200px;
+	color:#fff;
+	background-color:#000;
+	font-family:calibri;
+	padding:10px;
+	text-align:left;
+}
+
+
+/* css of Box or Box Content */
+
+
+
+.shop-section{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    background-color: #e2e7e6;
+
+
+}
+
+#shop-section-heading{
+	justify-content: center;
+	align-items: center;
+	display: flex;
+	
+
+}
+
+.box{
+    /* border: 2px solid black; */
+    height: 400px;
+    width: 23%;
+    background-color: white;
+    padding: 20px 0px 15px;
+    margin-top: 15px;
+
+}
+
+.box-img {
+    height: 300px;
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+
+.box-content{
+    margin-left: 1rem;
+    margin-right: 1rem;
+}
+
+.box-content p{
+
+    color: #007185;
+
+}
+
+
+/* Faq section code */
+
+#faq-heading{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	/* margin-top: 100px; */
+}
+
+/* .abc{
+	height: 40px;
+	width: 100px;
+} */
+
+
+/* footer css code */
+
+footer{
+    margin-top: 15px;
+}
+
+.foot-panel1{
+    background-color: #37475a;
+    color: white;
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 0.5rem;
+}
+
+.foot-panel2{
+    background-color: #e2e7e6;
+    color: #222f3d;
+    height: 450px;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+ul{
+    margin-top: 20px;
+
+}
+
+ul a{
+    display: block;
+    font-size: 0.85rem;
+    margin-top: 10px;
+    color: #dddddd;
+}
+
+
+
+/* .logo{
+    background-image: url("amazon_logo.png");
+    height: 50px;
+    background-size: cover;
+    width: 100px;
+} */
+
+
+
+.pages{
+    padding-top: 25px;
+    font-size: 0.7rem;
+    text-align: center;
+}
+
+.copyright{
+    padding-top: 5px;
+    font-size: 0.9rem;
+    text-align: center;
+	height: 35px;
+}
+
+.underline{
+	text-decoration: underline;
+}
+
+
+
+/* navbar code */
+
+.navbar{
+	display: flex;
+	
+}
